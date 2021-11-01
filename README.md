@@ -1,5 +1,5 @@
 ## Web AI Tic-Tac-Toe Game:
-This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which made with HTML and CSS.
+This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which made with HTML and CSS. It's AI is able to play game with you and It's very hard to beat even I think you can never beat it.
 
 
 ## Outcome:
@@ -8,7 +8,9 @@ This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which
 
 
 ## What Have I Done:
-I've made this Tic-Tac-Toe game using HTML, and CSS. It's a web and artificial intelligence based Tic-Tac-Toe game with attractive design. It's AI is able to play game with you and It's very hard to beat even I think you can never beat it. I have made the AI only using css.
+I've made this Tic-Tac-Toe game using HTML and CSS. I have made the AI only using CSS.
+
+Tic-Tac-Toe, noughts and crosses, or Xs and Os is a paper and pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
 
 ## Required Skills:
@@ -17,9 +19,10 @@ I've made this Tic-Tac-Toe game using HTML, and CSS. It's a web and artificial i
 
 
 ## Usage:
-- First of all you need to put the HTML, CSS and JavaScript files in the same folder.
+- First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
-- You're done! Enjoy the game.
+- You're done! Enjoy the Tic-Tac-Toe game.
+- You also can play the Tic-Tac-Toe game online by using this <a href="https://mdrakibulislam-zero.github.io/WebAITicTacToeGame/" > link</a>.
 
 
 ## Tutorial:

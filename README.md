@@ -3,7 +3,7 @@ This is a simple Tic-Tac-Toe game based on Web and Artificial intelligence which
 
 ## Outcome:
 <p align="center">
-<a href="https://github.com/mdrakibulislam-zero/WebTicTacToeGame" ><img width="1000px" height="auto" title="Tic-Tac-Toe Game" alt="Tic-Tac-Toe Game" src="https://github.com/mdrakibulislam-zero/WebTicTacToeGame/blob/main/Outcome.png" /></a></p>
+<a href="https://mdrakibulislam-zero.github.io/WebTicTacToeGame/" ><img width="1000px" height="auto" title="Tic-Tac-Toe Game" alt="Tic-Tac-Toe Game" src="https://github.com/mdrakibulislam-zero/WebTicTacToeGame/blob/main/Outcome.png" /></a></p>
 
 
 ## What Have I Done:
@@ -21,7 +21,7 @@ Tic-Tac-Toe, noughts and crosses, or Xs and Os is a paper and pencil game for tw
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
 - You're done! Enjoy the Tic-Tac-Toe game.
-- You also can play the Tic-Tac-Toe game online by using this <a href="https://mdrakibulislam-zero.github.io/WebAITicTacToeGame/" > link</a>.
+- You also can play the Tic-Tac-Toe game online by using this <a href="https://mdrakibulislam-zero.github.io/WebTicTacToeGame/" > link</a>.
 
 
 ## Tutorial:
